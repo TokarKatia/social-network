@@ -1,0 +1,35 @@
+.postsBlock {
+    padding: 10px;
+}
+
+.posts {
+    margin-top: 40px;
+}
+.myPosts{
+    padding: 10px;
+}
+textarea{
+    padding: 10px;
+    height: 40px;
+    width: 300px;
+    background-color: #fff;
+}
+textarea:focus,
+.btn:focus{
+    outline: none;
+}
+
+.btn{
+    height: 28px;
+    width: 80px;
+    margin-top: 10px;
+    background-color:#292929;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:hover{
+   background-color: #b80110;
+   color: #292929;
+}
